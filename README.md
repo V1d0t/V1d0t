@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/21733786/README.md)
 ## Hi there! 👋
 
-I'm V1d0t,  full-stack web developer from Georgia 🇬🇪, Starting From HTML, CSS, JavaScript, and building fun projects and websites.  I’m currently exploring cybersecurity and game  development.
+I'm Vita,  full-stack web developer from Georgia 🇬🇪, Starting From HTML, CSS, JavaScript, and building fun projects and websites.  I’m currently exploring cybersecurity and game  development.
 
 ## About Me
 
