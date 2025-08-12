@@ -36,7 +36,7 @@ I also enjoy optimizing Windows and browsers for better speed and privacy. Alway
 ## 📫 How to reach me
 
 <div align="left">
-📧 **Email:** [emailerbackup75@gmail.com](mailto:emailerbackup75@gmail.com)
+📧 **Email:** [emailerbackup75@gmail.com]
 </div>
 
 ---
