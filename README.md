@@ -32,13 +32,6 @@ I also enjoy optimizing Windows and browsers for better speed and privacy. Alway
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/V1d0t/count.svg" alt="Visitor Count" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -54,8 +47,9 @@ I also enjoy optimizing Windows and browsers for better speed and privacy. Alway
 ## 🌐 Socials
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vita-gigatadze-532326321/) 
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/V1d0t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vita-gigatadze-532326321/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/V1d0t)
+
 </div>
 
 ## 📫 How to reach me
@@ -65,5 +59,3 @@ I also enjoy optimizing Windows and browsers for better speed and privacy. Alway
 </div>
 
 ---
-
-⭐️ From [Vita](https://github.com/V1d0t)
