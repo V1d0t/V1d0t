@@ -4,7 +4,7 @@
 
 ## 🔭 I'm currently working on
 
-Working on game server modding (CS 1.6 AMXX scripting), and web projects like HC - HalfChroma.
+Working on game server modding (CS 1.6 AMXX scripting), and web projects like WinOS - Windows ISO Installation.
 
 ## 🌱 I'm currently learning
 
